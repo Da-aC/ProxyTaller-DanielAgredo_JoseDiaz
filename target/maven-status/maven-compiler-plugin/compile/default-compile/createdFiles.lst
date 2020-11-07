@@ -1,0 +1,13 @@
+taller\proxy\dominio\OrderFacade.class
+taller\proxy\dominio\State.class
+taller\proxy\dominio\Main.class
+taller\proxy\access\OrderRepositoryListas.class
+taller\proxy\infra\ProxyClient.class
+taller\proxy\access\Factory.class
+taller\proxy\dominio\Customer.class
+taller\proxy\dominio\Item.class
+taller\proxy\access\IOrderRepository.class
+taller\proxy\dominio\OrderServiceLogger.class
+taller\proxy\services\IOrderService.class
+taller\proxy\dominio\Order.class
+taller\proxy\dominio\Dish.class
